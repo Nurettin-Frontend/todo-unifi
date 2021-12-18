@@ -19,8 +19,8 @@
     "date-fns": "^2.27.0",
     "moment": "^2.29.1",
     "node-sass": "^7.0.0",
-    "react": "^18.0.0-rc.0-next-aa8f2bdbc-20211215",
-    "react-dom": "^18.0.0-rc.0-next-aa8f2bdbc-20211215",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
     "react-router-dom": "^6.2.0",
     "react-scripts": "5.0.0"
   },
