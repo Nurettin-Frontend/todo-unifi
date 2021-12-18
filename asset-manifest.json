@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/todo-unifi/static/css/main.193469e5.css",
+    "main.js": "/todo-unifi/static/js/main.348dba72.js",
+    "static/js/787.db38b2bd.chunk.js": "/todo-unifi/static/js/787.db38b2bd.chunk.js",
+    "index.html": "/todo-unifi/index.html",
+    "main.193469e5.css.map": "/todo-unifi/static/css/main.193469e5.css.map",
+    "main.348dba72.js.map": "/todo-unifi/static/js/main.348dba72.js.map",
+    "787.db38b2bd.chunk.js.map": "/todo-unifi/static/js/787.db38b2bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.193469e5.css",
+    "static/js/main.348dba72.js"
+  ]
+}
